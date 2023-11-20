@@ -58,10 +58,13 @@ in a while it gonna generate images for my resoult it was this:
 
 Other resaults with similar params:
 
+mage child-friendlly concept
 ![pixelMage](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/45b9f664-07fd-4f0f-b0c6-2c067d4d90bb)
 
+rougelike bandit
 ![banditPixelArt](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/d68d3174-cd05-4946-9ae0-c9fd83a494f8)
 
+villager of the winter village
 ![villagerWinter](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/421249c8-a2a5-4428-ae49-4b55841484a5)
 
 Step #2
@@ -78,16 +81,33 @@ Then upload the result to the "Pixel It" website customise and download your ima
 Example:
 
 Distillery generated:
+anctientWarrior
 ![anctientwarrior](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/88d3b995-1502-4933-b5e3-ad0b0b477bab)
 "Pixel It" converted:
+anctientWarrior_pixelart
 ![pxArtAncientWarrior](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/ea4b7f21-4975-4237-b494-060ea1d4f34e)
 
 
 Distillery generated:
+Palladin
 ![paladin](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/8185a901-e8aa-4e45-aa8f-5bc3c9e49ece)
+![distillery_e5ecacee-80c0-4278-92c3-9ffac27d3ba9](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/18efeaae-c636-4426-8669-0467ebca9b43)
 
 "Pixel It" converted:
+Palladin_PixelArt
 ![pxArtPalladin](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/28277b13-462d-45fd-b163-854977668149)
+![pxArt](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/13005426-f030-4d78-9998-af810e3d0504)
+
+
+whole image of avatar in different shapes:
+
+Distillery:
+whole view
+![distillery_0bfcca21-8b1e-4e3d-9cc7-360ca9a4afd8](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/78eb366a-ce12-42f5-906f-adda75168a17)
+
+"Pixel It":
+whole view_pixelart:
+![pxArt(1)](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/0e8b39af-ddba-4a5b-aee6-4986d390e56d)
 
 In summary, as I have also demonstrated, 
 Distillery performs very well in character generation, especially in the context of game development. 
