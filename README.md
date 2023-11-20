@@ -54,4 +54,4 @@ for the premium users
 
 in a while it gonna generate images for my resoult it was this:
 
-![distillery_0e79cda0-fede-4cd1-bb1a-b18dc4389b62](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/80a65d28-c164-48b9-ab51-45a01afcff7f)
+![WinterWarrior_2D](https://github.com/AGrzaNNa/DistilleryPixelArt/assets/117536463/d3431994-63af-4210-bc94-fb374d29871f)
